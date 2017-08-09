@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [09/Aug/2017:15:42:53 +0800] "GET /SpringMVC/ HTTP/1.1" 200 583 http-bio-8080-exec-1 1235
+0:0:0:0:0:0:0:1 - - [09/Aug/2017:15:43:03 +0800] "GET /SpringMVC/helloAgain HTTP/1.1" 200 591 http-bio-8080-exec-2 10
